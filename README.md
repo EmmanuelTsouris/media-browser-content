@@ -1,6 +1,6 @@
 ## Welcome to Sample Media Content for Media Browser
 
-Media Browser is a sample application [built on Angular](https://angular.io/).
+[Media Browser](https://github.com/EmmanuelTsouris/media-browser) is a sample application [built on Angular](https://angular.io/).
 
 ### Sample Media Content
 
